@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e3cdc65f.css",
+    "main.js": "/Portfolio/static/js/main.1a9b9f8f.js",
+    "static/js/415.fc063c41.chunk.js": "/Portfolio/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/Portfolio/static/js/787.f6e65957.chunk.js",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/comingsoon.png": "/Portfolio/static/media/comingsoon.6958494630dc3023a4dc.png",
+    "static/media/Gunat Soni CV.pdf": "/Portfolio/static/media/Gunat Soni CV.65cfc0202fa0dd4c9711.pdf",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.324462fa26d36b08edf7.png",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.e3cdc65f.css.map": "/Portfolio/static/css/main.e3cdc65f.css.map",
+    "main.1a9b9f8f.js.map": "/Portfolio/static/js/main.1a9b9f8f.js.map",
+    "415.fc063c41.chunk.js.map": "/Portfolio/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/Portfolio/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3cdc65f.css",
+    "static/js/main.1a9b9f8f.js"
+  ]
+}
