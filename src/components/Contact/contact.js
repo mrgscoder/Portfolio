@@ -1,8 +1,6 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
 import './contact.css';
-import Particle from "../Particle";
-
 
 export const Contact = () => {
   const [formData, setFormData] = useState({
@@ -36,7 +34,6 @@ export const Contact = () => {
   
 
   return (
-    <Particle>
     <section className="contact-section">
       <div className="contact-card">
         <h2 className="contact-title">Get In Touch</h2>
@@ -84,7 +81,6 @@ export const Contact = () => {
         </form>
       </div>
     </section>
-    </Particle>
   );
 };
 export default Contact;
