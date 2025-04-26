@@ -64,7 +64,7 @@ export const Contact = () => {
             name="message"
             placeholder="Your Message..."
             required
-            rows={5}
+            rows={4}
             value={formData.message}
             onChange={(e) =>
               setFormData({ ...formData, message: e.target.value })
